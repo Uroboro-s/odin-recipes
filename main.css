@@ -4,4 +4,9 @@ body
 }
 h1 {
     font-size: 76;
+a {
+    color: aliceblue;
+}
+li {
+    background-color: aqua;
 }
